@@ -8,3 +8,8 @@
 body {
   font-family: "Quicksand", sans-serif;
 }
+
+.search-btn{
+background-color: #FE8C45;
+color: white;
+}
