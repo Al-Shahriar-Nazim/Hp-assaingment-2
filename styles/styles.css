@@ -8,8 +8,16 @@
 body {
   font-family: "Quicksand", sans-serif;
 }
+.large-text{
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 78px;
+}
 
 .search-btn{
 background-color: #FE8C45;
 color: white;
+}
+.word-color{
+color: #8A47F6;
 }
