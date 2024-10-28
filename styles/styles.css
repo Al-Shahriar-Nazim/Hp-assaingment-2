@@ -31,9 +31,18 @@ body {
   padding: 10px;
   border-radius: 50%;
 }
+.get{
+  width: 500px;
+  height: 400px;
+  margin-top: 70px;
 
+}
 
-
+.loaction, .phone{
+  display: flex;
+gap: 10px;
+  align-items: center;
+}
 
 
 /* Gallery */
@@ -54,5 +63,9 @@ margin-top: 100px;
   }
   .hide{
     visibility: hidden;
+  }
+
+  .question{
+    margin-top: 300px;
   }
 }
